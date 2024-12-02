@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">AppForLearningEnglish</string>
+    <string name="correct">Correct!</string>
+    <string name="button_continue">Continue</string>
+    <string name="correct_answer_icon" translatable="false">correct answer icon</string>
+    <string name="skip">Skip</string>
+    <string name="close_image_button" translatable="false">close image button</string>
+    <string name="wrong">Incorrect!</string>
+</resources>
